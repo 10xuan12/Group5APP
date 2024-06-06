@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">行動式聯絡簿</string>
+    <string name="Register">registerActivity</string>
+    <string name="Task">TaskActivity</string>
+    <string name="parent">ParentActivity</string>
+    <string name="identity">identitychoiceActivity</string>
+    <string name="teacher">TeacherActivity</string>
+    <string name="student">StudentActivity</string>
+    <string name="HW">HomeworkActivity</string>
+    <string name="chat">ChatActivity</string>
+    <string name="Teachertalktostudent">TeachertalktostudentActivity</string>
+    <string name="Teachertalktoparent">TeachertalktoparentActivity</string>
+    <string name="Parenttalktoteacher">ParenttalktoteacherActivity</string>
+    <string name="Parenttalktostudent">ParenttalktostudentActivity</string>
+    <string name="Studenttalktoteacher">StudenttalktoteacherActivity</string>
+    <string name="Studenttalktoparent">StudenttalktoparentActivity</string>
+</resources>
